@@ -1,0 +1,32 @@
+section.section1
+{
+    
+    background-image: linear-gradient(#d8d8d8,#F0F0F0);
+    visibility: hidden;
+}
+
+section.section2
+{
+    
+    background-image: linear-gradient(#d8d8d8,#F0F0F0);
+    visibility: hidden;
+}
+
+img
+{
+    
+    width: 500px;
+    max-width: 50%;
+}
+
+body
+{
+ background-image: linear-gradient(#F0F0F0,#d8d8d8);
+}
+
+h1
+{
+    font-size: 30px;
+    font-family: serif;
+    color: #404040;
+}
